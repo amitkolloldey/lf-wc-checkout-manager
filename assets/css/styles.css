@@ -1,0 +1,68 @@
+/*
+Plugin Name: LF WooCommerce Checkout Fields Manager
+Plugin URI: http://devthemes.com
+Author: Amit Kollol Dey
+*/
+
+ul.subsubsub {
+    width: 20%;
+    display: inline-block;
+    background: #23272b;
+
+}
+
+.subsubsub li {
+    width: 100%;
+    color: transparent;
+    font-size: 0px;
+    line-height: 0;
+}
+
+.subsubsub a {
+    display: block;
+    font-size: 14px;
+    color: #ddd;
+}
+
+#mainform h2 {
+    padding: 20px;
+    width: 75%;
+    margin: 0;
+    display: inline-block;
+}
+
+br.clear {
+    clear: none;
+    display: none
+}
+
+table.form-table {
+    padding: 20px;
+    width: 75%;
+    display: inline-block;
+}
+
+p.submit {
+    padding: 20px;
+    width: 75%;
+    display: inline-block;
+}
+
+nav.nav-tab-wrapper.woo-nav-tab-wrapper {
+    margin-bottom: 50px !important;
+}
+
+.ac_match, .highlight, .subsubsub a.current {
+    color: #ddd;
+    background: #000;
+}
+
+.subsubsub a {
+    padding: 5px;
+}
+
+.subsubsub a:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
